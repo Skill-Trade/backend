@@ -23,3 +23,10 @@ security:
     secret: 7IK87Kmc7IK8IOuwseyXlOuTnCDsl5Tsp4Dri4jslrQg7LGE7JqpIOqzvOygnCBKV1Qg67mE67CAIO2CpA==
     access-token-validate-in-seconds: 3600
     refresh-token-validate-in-seconds: 86400
+
+
+oauth:
+  google:
+    client-id: {}
+    redirect-uri: {}
+    client-secret : {}
